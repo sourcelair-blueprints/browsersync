@@ -1,0 +1,13 @@
+{
+  "name": "a-project",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "browser-sync start -c bs-config.js"
+  },
+  "dependencies": {
+    "bootstrap": "4.0.0-beta.3",
+    "browser-sync": "^2.23.5",
+    "jquery": "3.2.1",
+    "popper.js": "1.12.9"
+  }
+}
